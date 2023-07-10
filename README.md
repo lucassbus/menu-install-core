@@ -34,7 +34,7 @@ Copy code
 
 5. Execute o script executando o seguinte comando:
 
-./install.sh
+./menu-install-core.sh
 
 less
 Copy code
