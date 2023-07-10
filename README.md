@@ -4,7 +4,7 @@ O Menu Install Core é um script versátil que simplifica o processo de instala�
 
 ## Recursos
 
-- Instalação simplificada: O script `install.sh` fornece uma interface de menu intuitiva que permite selecionar os programas que deseja instalar a partir de uma lista pré-definida. Isso elimina a necessidade de etapas de instalação manuais e reduz as chances de erros.
+- Instalação simplificada: O script `menu-install-core.sh` fornece uma interface de menu intuitiva que permite selecionar os programas que deseja instalar a partir de uma lista pré-definida. Isso elimina a necessidade de etapas de instalação manuais e reduz as chances de erros.
 
 - Extensibilidade: O script foi projetado para ser facilmente personalizável. Você pode adicionar ou remover programas, ajustar opções de instalação ou até mesmo modificar o próprio script para atender às suas necessidades específicas.
 
